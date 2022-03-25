@@ -1,6 +1,8 @@
 .landing {
-    background-image: linear-gradient(55deg, #003361 0, #003263 6.25%, #003065 12.5%, #002e65 18.75%, #002c64 25%, #002963 31.25%, #122660 37.5%, #25235d 43.75%, #321f59 50%, #3c1b54 56.25%, #44164f 62.5%, #4b1149 68.75%, #500c43 75%, #55063c 81.25%, #580235 87.5%, #5a002e 93.75%, #5b0027 100%);
-    color: white;
+    /* background-image: linear-gradient(55deg, #003361 0, #003263 6.25%, #003065 12.5%, #002e65 18.75%, #002c64 25%, #002963 31.25%, #122660 37.5%, #25235d 43.75%, #321f59 50%, #3c1b54 56.25%, #44164f 62.5%, #4b1149 68.75%, #500c43 75%, #55063c 81.25%, #580235 87.5%, #5a002e 93.75%, #5b0027 100%); */
+    background-color: #0093E9;
+  background-image: linear-gradient(160deg, #002941 0%, #160c30 100%);
+  color: white;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -9,6 +11,7 @@
     font-size: calc(10px + 2vmin);
     text-align: center;
 }
+
 
 
 
